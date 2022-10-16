@@ -1,0 +1,8 @@
+Nome: Luiz Vieira
+Ano do curso: 3º ano
+idade: 20 anos
+
+hobbies: 
+	- Jogar TFT, Vava, etc;
+	- Escrever histórias;
+	- Jogar RPG;
