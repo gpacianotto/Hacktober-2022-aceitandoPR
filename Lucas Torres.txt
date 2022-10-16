@@ -1,0 +1,5 @@
+Nome: Lucas Torres
+Ano do curso: 2 ano
+idade: 20 anos
+
+hobbies: dormir, tomar caf?, dormir de novo.

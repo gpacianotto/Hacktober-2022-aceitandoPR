@@ -1,0 +1,5 @@
+Nome: Ígor Rodrigues
+Ano do curso: 2º ano
+idade: 19 anos
+
+hobbies: jogar videogame, jogar basquete, ler e assistir filmes 
