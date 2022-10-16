@@ -2,4 +2,4 @@ Nome: Daniel
 Ano do curso: 4º ano
 idade: 21 anos
 
-hobbies: ler e assistir séries
+hobbies: ler, assistir séries e mais
