@@ -1,0 +1,5 @@
+Nome: Thiago Batista
+Ano do curso: 1º ano
+idade: 18 anos
+
+hobbies: Nenhum.
