@@ -1,0 +1,5 @@
+Nome: Marco
+Ano do curso: Primeiro
+Idade: 18
+
+hobbies: Csgo, ler mangá e assistir anime.
