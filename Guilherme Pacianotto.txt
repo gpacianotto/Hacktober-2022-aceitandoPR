@@ -1,5 +1,5 @@
-Nome: Fábio Ferreti
-Ano do curso: 1º ano
-idade: 30 anos
+Nome: Guilherme Pacianotto
+Ano do curso: 5º ano
+idade: 22 anos
 
-hobbies: pentear o cabelo, fazer twist duplo mortal carpado
+hobbies: jogar lolzinho, compor musicas.
