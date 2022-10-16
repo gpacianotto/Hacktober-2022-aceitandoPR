@@ -3,3 +3,11 @@ Ano do curso: 5º ano
 idade: 22 anos
 
 hobbies: jogar lolzinho, compor musicas.
+
+===
+
+Nome: Guilherme Molina
+Ano do curso: 5º ano
+idade: 23 anos
+
+hobbies: video games, música, filmes/séries, anime
