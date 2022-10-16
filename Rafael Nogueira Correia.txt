@@ -1,0 +1,5 @@
+Nome: Rafael Nogueira Correia
+Ano do curso: 4º ano
+idade: 21 anos
+
+hobbies: mecânica e tocar baixo.
