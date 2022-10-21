@@ -1,0 +1,5 @@
+Nome: Lucas Gaspar
+Ano do curso: 3º ano
+idade: 20 anos
+
+hobbies: Empinar pipa
